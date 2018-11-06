@@ -1,0 +1,21 @@
+{
+  "name": "keith",
+  "version": "0.1.0",
+  "description": "website for Keith's resume",
+  "main": "src/index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react-dom": "^16.6.0",
+    "react": "^16.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Wei Luen Lim",
+  "license": "MIT"
+}
